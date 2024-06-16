@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=akkewacheiei&style=flat-square&color=blue" />
 </div
 
+---
+
 ### :woman_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
