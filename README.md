@@ -48,6 +48,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     "Mongoose"
     ]
   </p>  
+
+  <!-- Other -->
+  <h3>Other</h3>
+  <p>
+    ["Git", "Docker", "AWS", "Nginx", "Figma"]
+  </p>  
 <div>
 
 ---
